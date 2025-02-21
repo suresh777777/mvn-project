@@ -1,0 +1,17 @@
+# Ignore target directory (Maven build output)
+target/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore Maven build jar file
+*.jar
+
+# Ignore IDE-specific files (e.g., IntelliJ, Eclipse)
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
